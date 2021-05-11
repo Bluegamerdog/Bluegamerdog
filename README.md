@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Bluegamerdog
+- 🌱 I’m currently learning Python
