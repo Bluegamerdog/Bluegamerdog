@@ -6,7 +6,7 @@ I'm **Bluegamerdog**, but most people just call me **Blue**
 - 🌱 Currently learning C# with Unity, and always looking to improve my Luau, JavaScript/TypeScript, and web development skills
 - 🏢 Role: Senior Programmer & Development Oversight at Paragon Research Institute
 - 🌐 Website: *coming soon*
-- 📨 Email: `mail@homesteadblue.de`
+- 📨 Email: `sysadmin@homesteadblue.de`
 
 When I’m not coding, you’ll probably find me listening to techno or uptempo music.  ヽ(⌐■_■)ノ♬
 
