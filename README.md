@@ -2,13 +2,14 @@
 
 I'm **Bluegamerdog**, but most people just call me **Blue**
 
-- 🔭 I’m currently working on gameplay systems and optimizations for **Paragon Research Institute**
-- 🌱 Currently learning C# with Unity, and always looking to improve my Luau, JavaScript/TypeScript, and web development skills
-- 🏢 Role: Senior Programmer & Development Oversight at Paragon Research Institute
-- 🌐 Website: *coming soon*
+- 🔭 I’m currently working on cloud infrastructure, backend systems, automation, and large-scale refactors for SCiPNet and Paragon Research Institute
+- 🌱 Currently learning C# with Unity, and always looking to improve my Luau, JavaScript/TypeScript, cloud infrastructure, and web development skills
+- 🏢 Role: Senior Developer & Systems / Infrastructure Administrator at Paragon Research Institute
+- 💼 Former Role: Head of Development / Development Oversight at Paragon Research Institute
+- 🌐 Website: *coming eventually:tm:*
 - 📨 Email: `sysadmin@homesteadblue.de`
 
-When I’m not coding, you’ll probably find me listening to techno or uptempo music.  ヽ(⌐■_■)ノ♬
+When I’m not coding, you’ll probably find me listening to hardstyle music.  ヽ(⌐■_■)ノ♬
 
 ---
 
